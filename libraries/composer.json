@@ -1,0 +1,14 @@
+{
+    "name": "library",
+    "autoload": {
+        "classmap": [
+            "classes"
+        ],
+        "psr-4": {
+
+        },
+        "files": [
+
+        ]
+    }
+}

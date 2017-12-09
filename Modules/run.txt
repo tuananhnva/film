@@ -1,0 +1,4 @@
+Bước 1 : chạy vào file router
+Bước 2 : chạy tới hảm router reset (Reset lại toàn bộ thông tin của csdl)
+Bước 3 : chạy run để lấy tất cả các link bài viết cần crawl dữ liệu về
+Bước 4 : chạy các link bìa viết bắt đầu lấy nội dung bên trong bài viết đó
